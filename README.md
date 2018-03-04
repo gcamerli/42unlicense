@@ -4,7 +4,7 @@
 
 ### **Description**
 
-<img src="http://www.42.fr/wp-content/themes/42/images/42_logo_black.svg" alt="42" style="width: 80px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" alt="42" style="width: 80px;"/>
 
 Based on the more general [Unlicense](https://en.wikipedia.org/wiki/Unlicense) public license, **42 Unlicense** is a flavored version to let you publish your **42** educational projects and set your
 code as **free**.
