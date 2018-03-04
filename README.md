@@ -15,6 +15,12 @@ _Life's too short, let's get back to code._
 
 Just copy the **original** version of the [LICENSE](LICENSE) in your working directory and change the **42** header.
 
+To reference your **README** you can copy the following baseline:
+
+```
+This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
+```
+
 ### **Other remarkable public licenses**
 
 + [Unlicense](https://en.wikipedia.org/wiki/Unlicense)
