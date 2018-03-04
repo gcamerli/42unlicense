@@ -4,10 +4,10 @@
 
 ### **Description**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" alt="42" style="width: 80px;"/>
-
 Based on the more general [Unlicense](https://en.wikipedia.org/wiki/Unlicense) public license, **42 Unlicense** is a flavored version to let you publish your **42** educational projects and set your
 code as **free**.
+
+![42](img/42_logo.png)
 
 _Life's too short, let's get back to code._
 
