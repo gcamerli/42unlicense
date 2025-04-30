@@ -21,8 +21,15 @@ To reference your **README** you can copy the following baseline:
 This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
 ```
 
+### **License Features**
+
+- Places your code in the public domain
+- Includes CC0 1.0 Universal fallback for jurisdictions where public domain dedications are not recognized
+- Simple and permissive - no attribution required
+
 ### **Other remarkable public licenses**
 
 + [Unlicense](https://en.wikipedia.org/wiki/Unlicense)
++ [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
 + [Beerware](https://en.wikipedia.org/wiki/Beerware)
 + [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
